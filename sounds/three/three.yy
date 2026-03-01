@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"three",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.732517,
+  "exportDir":"",
+  "name":"three",
+  "parent":{
+    "name":"TutorialGuy",
+    "path":"folders/Sounds/TutorialGuy.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"three.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"nah_i_d_win",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.71126986,
+  "exportDir":"",
+  "name":"nah_i_d_win",
+  "parent":{
+    "name":"bossfight",
+    "path":"folders/Sounds/TutorialGuy/bossfight.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"nah_i_d_win.mp3",
+  "volume":1.0,
+}
