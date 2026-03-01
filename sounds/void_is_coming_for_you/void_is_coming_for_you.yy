@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"void_is_coming_for_you",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":17.184013,
+  "exportDir":"",
+  "name":"void_is_coming_for_you",
+  "parent":{
+    "name":"OST",
+    "path":"folders/Sounds/OST.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"void_is_coming_for_you.mp3",
+  "volume":1.0,
+}

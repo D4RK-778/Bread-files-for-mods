@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"one",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.8490024,
+  "exportDir":"",
+  "name":"one",
+  "parent":{
+    "name":"TutorialGuy",
+    "path":"folders/Sounds/TutorialGuy.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"one.mp3",
+  "volume":1.0,
+}
